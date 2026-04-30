@@ -1,20 +1,47 @@
 <div align="center">
-<img width="1200" alt="Banner" src="https://k.top4top.io/p_3772fw8ed1.png" />
+<img width="1200" alt="Modern React Dashboard Banner" src="https://k.top4top.io/p_3772fw8ed1.png" />
+
+# Modern | React Dashboard Kit
+
+**Accelerate your development with a comprehensive, production-ready dashboard kit.**
 </div>
 
-# Run and deploy your AI Studio app
+## Overview
 
-This contains everything you need to run your app locally.
+Modern Dashboard Kit adalah solusi *UI/UX* berbasis React yang dirancang untuk membangun antarmuka admin dan panel kontrol dengan cepat. Dilengkapi dengan komponen modern, grafik interaktif, dan tata letak yang responsif.
 
-View your app in AI Studio: https://ai.studio/apps/95ff87b3-b700-4838-92d3-4861d424e954
+## Fitur Utama
 
-## Run Locally
+*   **Dashboard Overview**: Visualisasi data performa sistem dan keterlibatan pengguna secara real-time.
+*   **UI Components**: Koleksi lengkap komponen antarmuka (input, tombol, navigasi) yang konsisten secara desain.
+*   **Analytics & Metrics**: Integrasi grafik yang dinamis untuk memantau trafik dan statistik.
+*   **Dark & Light Mode**: Dukungan penuh untuk tema visual yang dapat disesuaikan.
 
-**Prerequisites:**  Node.js
+## Menjalankan Project Secara Lokal
+
+**Prasyarat:** Node.js (Versi 16 atau yang lebih baru)
+
+1.  **Clone atau Download Project**
+    Pastikan Anda memiliki salinan kode sumber di mesin lokal Anda.
+
+2.  **Instalasi Dependensi**
+    Buka terminal di direktori project dan jalankan:
+    ```bash
+    npm install
+    ```
+
+3.  **Konfigurasi Environment**
+    Salin file `.env.example` menjadi `.env.local` dan sesuaikan variabel yang diperlukan (seperti API Base URL atau Key lainnya jika ada).
+
+4.  **Menjalankan Aplikasi**
+    Mulai server pengembangan dengan perintah:
+    ```bash
+    npm run dev
+    ```
+    Aplikasi akan berjalan di `http://localhost:3000`.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+---
+
+© 2026 Modern Framework. Built for speed and visual excellence.
