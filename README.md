@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Banner" src="https://k.top4top.io/p_3772fw8ed1.png" />
+<img width="1200" alt="Banner" src="https://k.top4top.io/p_3772fw8ed1.png" />
 </div>
 
 # Run and deploy your AI Studio app
